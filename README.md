@@ -1,3 +1,9 @@
+# Changes from kageurufu's original
+Removed all startup videos, added single customized atari5200 video.
+
+# Original readme follows
+----------
+
 # steamdeck_startup_animations
 A collection of steamdeck startup animations, plus a script to randomize your startup on each boot
 
