@@ -1,5 +1,7 @@
 # Changes from kageurufu's original
-Removed all startup videos, added single customized atari5200 video.
+* Removed all startup videos, added single customized atari5200 video.
+* Merged kageurufu/steamdeck_startup_animations#9
+* Merged kageurufu/steamdeck_startup_animations#8
 
 # Original readme follows
 ----------
